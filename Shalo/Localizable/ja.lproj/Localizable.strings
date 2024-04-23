@@ -1,0 +1,46 @@
+/* 
+  Localizable.strings
+  SHALO
+
+  Created by 박준하 on 4/23/24.
+  Copyright © 2024 Shalo. All rights reserved.
+*/
+
+"share" = "コンユ";
+"Post your video to a social media site, or send it by e-mail or SMS." = "動画をソーシャル メディア サイトに投稿するか、電子メールまたはSMS で送信します。";
+"Save a copy" = "コピー保存します";
+"Create a copy to the album." = "アルバムにコピーを作ります。";
+"Cut" = "カット";
+"speed" = "速度 %d";
+"Original" = "オリジナル";
+"Concentration filter" = "濃度フィルタ";
+"Color control" = "カラーコントロール";
+"Exposure" = "露出";
+"Vignette" = "ビネット";
+"Comic" = "コミック";
+"Monochrome" = "モノクローム";
+"Contrast" = "対比";
+"Solid" = "単色";
+"Old" = "古いフィルム";
+"Noir" = "ノワール";
+"HalfToned" = "ハーフトーン";
+"Retro" = "レトロ";
+"DarkBrown" = "こげ茶色";
+"Processes" = "プロセス";
+"Blur" = "曇らせるように";
+"Warm" = "暖かい";
+"Vintage" = "ビンテージ";
+"Clamp" = "クランプ";
+"Light" = "明るさ";
+"Exposure" = "露出";
+"ToneContrast" = "トーン対比";
+"Slope" = "勾配";
+"Concentration" = "濃度";
+"Edit" = "編集";
+"Filter" = "フィルター";
+"Saved successfully" = "正常に保存されました。";
+"Click to open it" = "クリックして開いてください";
+"Could not save the video" = "動画を保存できません。";
+"Please try again" = "もう一度やり直していただけますか";
+"Please press the background and choose a video" = "背景を押してビデオを選択してください";
+"Open" = "熱気";

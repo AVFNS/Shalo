@@ -1,0 +1,46 @@
+/* 
+  Localizable.strings
+  SHALO
+
+  Created by 박준하 on 4/23/24.
+  Copyright © 2024 Shalo. All rights reserved.
+*/
+
+"share" = "공유";
+"Post your video to a social media site, or send it by e-mail or SMS." = "동영상을 소셜 미디어 사이트에 게시하거나 이메일 또는 SMS를 통해 보냅니다.";
+"Save a copy" = "복사본 저장";
+"Create a copy to the album." = "앨범에 복사본을 만듭니다.";
+"Cut" = "자르기";
+"speed" = "속도 %d";
+"Original" = "원본";
+"Concentration filter" = "농도 필터";
+"Color control" = "색상";
+"Exposure" = "노출";
+"Vignette" = "비네트";
+"Comic" = "코믹";
+"Monochrome" = "모노크롬";
+"Contrast" = "대비";
+"Solid" = "단색";
+"Old" = "오래된 필름";
+"Noir" = "느와르";
+"HalfToned" = "하프톤";
+"Retro" = "레트로";
+"DarkBrown" = "짙은 갈색";
+"Processes" = "프로세스";
+"Blur" = "흐리게";
+"Warm" = "따뜻한";
+"Vintage" = "빈티지";
+"Clamp" = "클램프";
+"Light" = "밝기";
+"Exposure" = "노출";
+"ToneContrast" = "톤 대비";
+"Slope" = "기울기";
+"Concentration" = "농도";
+"Edit" = "편집";
+"Filter" = "필터";
+"Saved successfully" = "성공적으로 저장되었습니다.";
+"Click to open it" = "클릭해서 열어주세요";
+"Could not save the video" = "동영상을 저장할 수 없습니다";
+"Please try again" = "다시시도 해주세요";
+"Please press the background and choose a video" = "배경을 눌러서 비디오를 선택해주세요";
+"Open" = "열기";

@@ -1,0 +1,45 @@
+/* 
+  Localizable.strings
+  SHALO
+
+  Created by 박준하 on 4/23/24.
+  Copyright © 2024 Shalo. All rights reserved.
+*/
+
+"share" = "share";
+"Post your video to a social media site, or send it by e-mail or SMS." = "Post your video to a social media site, or send it by e-mail or SMS.";
+"Save a copy" = "Save a copy";
+"Create a copy to the album." = "Create a copy to the album.";
+"Cut" = "Cut";
+"speed" = "speed %d";
+"Original" = "Original";
+"Concentration filter" = "Concentration filter";
+"Color control" = "Color control";
+"Exposure" = "Exposure";
+"Vignette" = "Vignette";
+"Monochrome" = "Monochrome";
+"Contrast" = "Contrast";
+"Solid" = "Solid";
+"Old" = "Old";
+"Noir" = "Noir";
+"HalfToned" = "HalfToned";
+"Retro" = "Retro";
+"DarkBrown" = "DarkBrown";
+"Processes" = "Processes";
+"Blur" = "Blur";
+"Warm" = "Warm";
+"Vintage" = "Vintage";
+"Clamp" = "Clamp";
+"Light" = "Light";
+"Exposure" = "Exposure";
+"ToneContrast" = "ToneContrast";
+"Slope" = "Slope";
+"Concentration" = "Concentration";
+"Edit" = "Edit";
+"Filter" = "Filter";
+"Saved successfully" = "Saved successfully.";
+"Click to open it" = "Click to open it";
+"Could not save the video" = "Could not save the video";
+"Please try again" = "Please try again";
+"Please press the background and choose a video" = "Please press the background and choose a video";
+"Open" = "Open";
